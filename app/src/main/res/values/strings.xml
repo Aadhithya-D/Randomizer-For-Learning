@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="textview">Text View</string>
+    <string name="number">Number</string>
+    <string name="word">Word</string>
+    <string name="country">Country</string>
+    <string name="random_country_generator">Random Country Generator</string>
+</resources>
